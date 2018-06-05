@@ -1,0 +1,14 @@
+.running {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
+.inprocess {
+  background-color: orange;
+  font-weight: bold;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
